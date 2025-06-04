@@ -9,3 +9,4 @@ datasets==3.6.0
 hf_xet==1.1.2
 transformers[torch]
 accelerate
+matplotlib==3.10.1
